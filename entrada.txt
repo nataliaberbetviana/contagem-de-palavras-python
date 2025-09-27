@@ -1,1 +1,1 @@
-Este é um pequeno exemplo de texto para verificar a funcionalidade de um contador de palavras em um documento específico.
+Este é um pequeno exemplo claro de texto para verificar a funcionalidade de um contador de palavras em um documento específico.
